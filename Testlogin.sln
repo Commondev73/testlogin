@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testlogin", "Testlogin\Testlogin.csproj", "{385CB5BC-8EF6-4A56-8223-D43B2B78EDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{7514547E-DC24-482C-BD97-2AB437985060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385CB5BC-8EF6-4A56-8223-D43B2B78EDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385CB5BC-8EF6-4A56-8223-D43B2B78EDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385CB5BC-8EF6-4A56-8223-D43B2B78EDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385CB5BC-8EF6-4A56-8223-D43B2B78EDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7514547E-DC24-482C-BD97-2AB437985060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7514547E-DC24-482C-BD97-2AB437985060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7514547E-DC24-482C-BD97-2AB437985060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7514547E-DC24-482C-BD97-2AB437985060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025A0EB4-78AC-4EF1-B7B6-618C2FFF1D36}
+	EndGlobalSection
+EndGlobal
